@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-https://github.com/AndreFSRamos/GifCards/blob/main/loja_virtual01.gif
+
+![Gif de apresentação do projéto]([https://github.com/AndreFSRamos/GifCards/blob/main/App_Chat_Online.gif](https://github.com/AndreFSRamos/GifCards/blob/main/loja_virtual01.gif))
